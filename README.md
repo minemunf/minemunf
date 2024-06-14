@@ -1,6 +1,7 @@
 # Hello, all!
-## I am a Mechanical Engineer, and sometimes I'llmake cool things!
- <u> ### I'll post any of my tech- or coding-related projects here. Here's some things you can expect! </u>
+## I am a Mechanical Engineer, and sometimes I'll make cool things!
+### I'll post any of my tech- or coding-related projects here. Here's some things you can expect!
+---------------------------------------------------------------------------------------------------
 
 - Server Management projects 🖥️
 - Data Wrangling projects in R ®️
