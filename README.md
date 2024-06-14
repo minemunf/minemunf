@@ -9,5 +9,4 @@
 - Integrated Device code/Arduino projects 🤖
 - Silly stuff. maybe some Cheese++ 🧀
 
-![LionCoinLoop-unscreen](https://github.com/minemunf/minemunf/assets/73777889/6e528b2d-1505-4021-ae1e-5e2ce0a097e8)
-
+![LionCoinLoop-unscreen](https://github.com/minemunf/minemunf/assets/73777889/314e74ef-fc71-45cc-b2bb-bee6598a75cc)
